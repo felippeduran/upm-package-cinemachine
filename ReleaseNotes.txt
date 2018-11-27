@@ -1,3 +1,7 @@
+<size=20><b>Version 2.2.8</b></size>
+
+- Added dependency on new unity.timeline
+
 <size=20><b>Version 2.2.7</b></size>
 
 - Bugfix: fogbugz case 1053595: Cinemachine Collider leaves hidden collider at origin that interferes with scene objects
